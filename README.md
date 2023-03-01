@@ -13,9 +13,6 @@
   Olá, meu nome é Gabriel Eduardo e sou professor de Análise e Desenvolvimento de Sistemas. Além de ensinar disciplinas relacionadas a programação, banco de dados e desenvolvimento de sistemas, também preparo meus alunos para certificações em nuvem, permitindo que eles estejam sempre atualizados e prontos para o mercado de trabalho. Estou sempre buscando as melhores práticas e metodologias para garantir o sucesso dos meus alunos.
 </p>
 
-## Jogue o jogo do dinossauro
-
-<iframe src="https://chromedino.com/" width="600" height="200"></iframe>
 
 <!-- Languages and tools -->
 <h3 align="center">Linguagens e ferramentas que eu uso:</h3>
